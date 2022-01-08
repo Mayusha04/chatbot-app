@@ -84,13 +84,6 @@ body {
     padding-bottom: 0px;
 }
 
-/* #insidediv3 {
-    padding:1px;
-    padding-left: 48px;
-    font-family: sans-serif;
-    font-size: 20px;
-    padding-bottom: 0px;
-} */
 
 .button {
     width:300px;
@@ -121,8 +114,7 @@ body {
     height:20px;
     animation-duration :15s;
     animation-name : fadeIn;
-    /* background-color: white;
-    border: 1px solid black; */
+    
 }
 
 .buttonp2 {
@@ -167,7 +159,7 @@ body {
 
 @media screen and (max-width: 700px) {
     #maindiv {
-      background-color: rgb(163, 245, 163);
+      background-color: rgba(228, 114, 21, 0.979);
       margin: auto;
       margin-left: 10px;
       position:absolute;
